@@ -1,3 +1,0 @@
-selenium.browser=webdriver.chrome.driver
-selenium.baseUrl=http://testingchallenges.thetestingmap.org/index.php
-selenium.browser.path= C:\\Users\\Asus X540LJ\\IdeaProjects\\TestAutomationCourse\\src\\test\\java\\browsers\\chromedriver.exe
